@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Tanuja Pyneni</h1>
+<h1 align="center">Hi 👋, I'm Tanuja Pyneni </h1>
 <h4 align="center">A passionate Software Developer and Research Enthusiast 💻 with an interest in turning ideas into innovative code and user centric experiences. I am always ready to learn new technologies.</h4>
 <br />
 <img align="right" alt="Coding" width="400" src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/working-chart.gif">
 
 ## I am actively looking for job offers! 🏢 🏃‍♂️💨
 
-You can connect with me on:
-
 <h3 align="left">You can connect with me on:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tanuja-pyneni-121373169/" target="blank"><img align="center" src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/linkedin.png" alt="tanuja-pyneni" height="30" width="30" /></a>
 
 When I am not coding, or doing any tech related things, I like to sketch you can see that here:
+
+<h5 align="left">You can connect and follow me if you like on:</h5>
 <a href="https://www.instagram.com/manga_me_tan/" target="blank"><img align="center" src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/instagram.png" alt="tanuja-pyneni-art_account" height="30" width="30" /></a>
 </p>
 
@@ -24,7 +24,7 @@ When I am not coding, or doing any tech related things, I like to sketch you can
   <img src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/c++.png" alt="cplusplus" width="40" height="40"/> 
 </a> 
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/java.png" alt="java" width="40" height="40"/> 
+  <img src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/java.png" alt="java" width="70" height="50"/> 
 </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/git.png" alt="git" width="40" height="40"/> 
@@ -60,13 +60,13 @@ When I am not coding, or doing any tech related things, I like to sketch you can
   <img src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/aws.png" alt="aws" width="40" height="40"/> 
 </a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/node.png" alt="node" width="40" height="40"/> 
+  <img src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/node.png" alt="node" width="60" height="40"/> 
 </a> 
 <a href="https://storybook.js.org/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/storybook.png" alt="storybook" width="40" height="40"/> 
 </a> 
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/tableau.png" alt="tableau" width="50" height="40"/> 
+  <img src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/tableau.png" alt="tableau" width="60" height="40"/> 
 </a> 
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/cypress.png" alt="cypress" width="40" height="40"/> 
@@ -75,14 +75,12 @@ When I am not coding, or doing any tech related things, I like to sketch you can
   <img src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/jest.png" alt="jest" width="40" height="40"/> 
 </a> 
 </p>
-My Portfolio Page
+
+- My Portfolio Page
+  
 <hr>  
-
 <br/>
-
-<h3 align="center">Github Stats:</h3>
-<hr>
 <div align="center">
 
 <div>
-  <strong>### Cheers!</strong> 😁👍💻
+  <strong>### Cheers!</strong> 😁👍
