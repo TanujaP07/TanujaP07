@@ -23,6 +23,9 @@ When I am not coding, or doing any tech related things, I like to sketch you can
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/c++.png" alt="cplusplus" width="40" height="40"/> 
 </a> 
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/java.png" alt="java" width="40" height="40"/> 
+</a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/icons/git.png" alt="git" width="40" height="40"/> 
 </a>
