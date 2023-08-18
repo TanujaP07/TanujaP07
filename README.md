@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tanuja Pyneni</h1>
 <h4 align="center">A passionate Software Developer and Research Enthusiast 💻 with an interest in turning ideas into innovative code and user centric experiences. I am always ready to learn new technologies.</h4>
 <br />
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Tanujap07/github-profile-readme-generator/main/src/images/icons/Social/twitter.svg">
+<img align="right" alt="Coding" width="400" src="https://github.com/TanujaP07/TanujaP07/blob/main/assets/Animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pri65&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka Soni" /> </p>
 
@@ -15,7 +15,6 @@ If you'd like me to come work on one of your projects, you can reach me on:
 <p align="left">
 <a href="https://twitter.com/comicnerd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="comicnerd07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bharadwaj-chukkala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharadwaj-chukkala" height="30" width="40" /></a>
-<a href="https://instagram.com/sir_caustic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sir_caustic" height="30" width="40" /></a>
 <a href="https://medium.com/bchukkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bchukkal" height="30" width="40" /></a>
 </p>
 
