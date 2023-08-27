@@ -76,7 +76,7 @@ When I am not coding, or doing any tech related things, I like to sketch you can
 </a> 
 </p>
 
-- My Portfolio Page
+> [My Portfolio Page](https://tanujap07.github.io/my_portfolio/)
   
 <hr>  
 <br/>
